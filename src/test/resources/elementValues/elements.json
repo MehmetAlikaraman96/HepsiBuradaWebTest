@@ -1,0 +1,138 @@
+[
+
+  {
+    "key": "Hesabım",
+    "value": "myAccount",
+    "type": "id"
+  },
+  {
+    "key": "Giriş Yap",
+    "value": "login",
+    "type": "id"
+  },
+  {
+    "key": "Kullanıcı Adı",
+    "value": "email",
+    "type": "id"
+  },
+  {
+    "key": "Şifre",
+    "value": "password",
+    "type": "id"
+  },
+  {
+    "key": "Giriş",
+    "value": ".btn-login-submit",
+    "type": "css"
+  },
+  {
+    "key": "Kategoriler",
+    "value": "//ul[@class='menu browser-by-category']/li",
+    "type": "xpath"
+  },
+  {
+    "key": "Siparişlerim",
+    "value": "//li[@class=' hbus 3622']/a[.='Siparişlerim']",
+    "type": "xpath"
+  },
+  {
+    "key": "HesabımKontrol",
+    "value": "#myAccount > a:nth-child(1)",
+    "type": "css"
+  },
+  {
+    "key": "AltKategoriler",
+    "value": "menu-item",
+    "type": "className"
+  },
+  {
+    "key": "Markalar",
+    "value": "//ol[@class='show-all-brands scrollable-filter-container scroll-lock']/li",
+    "type": "xpath"
+  },{
+  "key": "EnAz",
+  "value": "[placeholder='En az']",
+  "type": "css"
+},
+  {
+    "key": "EnCok",
+    "value": "[placeholder='En çok']",
+    "type": "css"
+  },
+  {
+    "key": "DegerButonu",
+    "value": "//button[@class='button small']",
+    "type": "xpath"
+  },
+  {
+    "key": "Urunler",
+    "value": "//*[@class='search-item col lg-1 md-1 sm-1  custom-hover not-fashion-flex']",
+    "type": "xpath"
+  },
+
+  {
+    "key": "UrunAdi",
+    "value": "//*[@class='search-item col lg-1 md-1 sm-1  custom-hover not-fashion-flex']//p/span",
+    "type": "xpath"
+  },
+  {
+    "key": "UrunFiyati",
+    "value": "//*[@class='search-item col lg-1 md-1 sm-1  custom-hover not-fashion-flex']//div/span[@class='price product-price']",
+    "type": "xpath"
+  },
+  {
+    "key": "SepeteEkle",
+    "value": "addToCart",
+    "type": "id"
+  },
+  {
+    "key": "AdetSayısı",
+    "value": "//label[.='1']",
+    "type": "xpath"
+  },
+  {
+    "key": "AdetArtı",
+    "value": "//button[@class='increase']",
+    "type": "xpath"
+  },
+  {
+    "key": "Sepetim",
+    "value": "//a[@id='shoppingCart']",
+    "type": "xpath"
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  }
+]

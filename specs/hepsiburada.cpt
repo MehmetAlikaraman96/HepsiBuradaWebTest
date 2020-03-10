@@ -1,0 +1,40 @@
+Created by testinium on 9.03.2020
+
+This is a concept file with following syntax for each concept.
+# Giris Yap Butonuna Tıklanır
+*"Hesabım" elementine focus ol
+*"Giriş Yap" elementine tıkla
+# Kullanıcı Bilgileri Girilir Ve Giris Yapılır
+*"Kullanıcı Adı" elementine "karamanmehmetali96@gmail.com" degerini gönder
+*"Şifre" elementine "deneme1234" degerini gönder
+*"Giriş" elementine tıkla
+# Giris Kontrol Edilir
+*"HesabımKontrol" elementi içerisinde "Hesabım" değeri var mı kontrol edilir
+# Rastgele Bır Kategorıden Rastgele Bır Alt Kategorı Seçılır
+*"Kategoriler"elementini liste ile al ve listeden bir elemente random ile tıkla
+ *"AltKategoriler"elementini liste ile al ve listeden bir elemente random ile tıkla
+ # Rastgele Marka Seçilir
+ *"Markalar"elementini liste ile al ve listeden bir elemente random ile tıkla
+ *"1" saniye bekle
+ # Fiyat Aralıgı Verilir
+ *"EnAz" elementine "10" degerini gönder
+ *"1" saniye bekle
+ *"EnCok" elementine "4000" degerini gönder
+ *"DegerButonu" elementine tıkla
+ # Rastgele Urun Secilir
+*"Urunler"elementini liste ile al ve listeden bir elemente random ile tıkla daha sonra "UrunAdi"ve"UrunFiyati" bunu csv dosyasına kaydet
+*"3" saniye bekle
+# Urun Sepete Eklenir
+*"SepeteEkle" elementine tıkla
+*"2" saniye bekle
+# Adet Sayısı Kontrol Edilir
+*"AdetSayısı" elementinin adet sayısı "1" degerini içeriyor mu kontrol edilir
+*"1" saniye bekle
+# Adet Sayısı Arttırılır
+*"Sepetim" elementine tıkla
+*"AdetArtı" elementine tıkla
+*"1" saniye bekle
+*"AdetArtı" elementine tıkla
+
+
+
